@@ -7,7 +7,7 @@ You can use this python program for Windows minesweeper game automation. The win
 ## Features
 
 - OpenCV in game objects detection.
-- You can automate most of minesweeper games by updating config.py file. Just change <u>object_hex_color</u> which is using for object detections. Also you may need to update <u>min_area</u> and <u>>max_area</u> configs. They are used for object filtering in case of same objects color in game UI.
+- You can automate most of minesweeper games by updating config.py file. Just change <u>object_hex_color</u> which is using for object detections. Also you may need to update <u>min_area</u> and <u>max_area</u> configs. They are using for object filtering in case of same objects color in game UI.
 - Clicks automation.
 
 ## Requirements
